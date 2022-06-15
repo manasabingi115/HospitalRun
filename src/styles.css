@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+#app {
+  display: flex;
+}
+#side-bar {
+  width: 10%;
+  background: aliceblue;
+  border-right: 1px solid lightgray;
+  cursor: pointer;
+}
+#main-div {
+  width: 90%;
+  background: antiquewhite;
+  padding-left: 50px;
+}
